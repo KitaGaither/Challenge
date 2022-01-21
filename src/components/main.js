@@ -5,7 +5,6 @@ import Home from "./home.js";
 import About from "./about.js";
 import Contact from "./contact.js";
 import Projects from "./projects.js";
-import {Route, Routes } from 'react-router-dom';
 
 
 function Main() {
